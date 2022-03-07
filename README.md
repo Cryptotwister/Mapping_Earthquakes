@@ -13,3 +13,6 @@ In our approach we used the JavaScript and the D3.js library to retrieve the coo
 
 ### Results
 The html file for the project can be found [here](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html) and the javascript file for the challenge can be found in [challenge_logic.js](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) and the css file can be found in [style.css](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css).
+
+The final visualization of the project is:
+![challenge_final_image](https://user-images.githubusercontent.com/42978221/157137967-83b3bd2c-66de-4ada-8ece-1f83e4612cc4.png)
