@@ -10,3 +10,6 @@ To complete this project, we've used a URL for GeoJSON earthquake data from the 
 
 ### Approach
 In our approach we used the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Used the Leaflet library to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data.
+
+### Results
+
