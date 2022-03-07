@@ -12,4 +12,4 @@ To complete this project, we've used a URL for GeoJSON earthquake data from the 
 In our approach we used the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Used the Leaflet library to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data.
 
 ### Results
-
+The html file for the project can be found [here](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html) and the javascript file for the challenge can be found in [challenge_logic.js](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) and the css file can be found in [style.css](https://github.com/Cryptotwister/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css).
